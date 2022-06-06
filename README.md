@@ -21,5 +21,5 @@ find the demo video https://youtu.be/qYrbv0EIs7E
 |-----------------|------------|------------|---------------------------------------------------|
 | Durvankur Dama  | 19BCG10002 | VIT Bhopal | [durvankur-resp](https://github.com/durvankur-resp) |
 | Randhir prakash    | 19BCG10060 | VIT Bhopal | [Anonymous6503](https://github.com/Anonymous6503) |
-|Rajveer kumar  | 19BCG10067 | VIT Bhopal | []) |
+|Rajveer kumar  | 19BCG10067 | VIT Bhopal | [rajveer10092](https://github.com/rajveer10092) |
 |G. D Chandra Shekhar | 19BCE10207 | VIT Bhopal |[ShekharGandhala](https://github.com/ShekharGandhala) |
